@@ -1,16 +1,24 @@
-### Hi there 👋
+### 大家好我是铭心
 
-<!--
-**LMingHXin/LMingHXin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ~~啥也不会~~
+---
+### My States
 
-Here are some ideas to get you started:
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LMingHXin&&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![States](https://github-readme-stats.vercel.app/api?username=LMingHXin&show_icons=true&count_private=true&include_all_commits=true)
+
+### Languages
+
+- Python(Main)
+- C++
+- HTML
+- Java <- 刚学
+- Shell
+
+### Projects
+
+| Name | Main Language | Description | State |
+|:----:|:----:|:----:|:----:|
+| [UAC Bot](https://github.com/UAC-Org/UAC-Bot) | Python | Bot for UAC | 缓慢更新 |
+| [PCL Tools](https://github.com/LMingHXin/PCL-) | Python | Pain Craft Launcher Tools | 暂时停更 |
